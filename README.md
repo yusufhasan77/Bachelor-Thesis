@@ -18,8 +18,8 @@ These models are created as functions and can be called in main training scripts
 
 e.g If I want to create a discriminator from the two available choices I can do
 
-# If vanilla CycleGAN Discriminator is required
+#### If vanilla CycleGAN Discriminator is required
 disc_X = CycleGAN_Discrminator(input_channels, initial_channels)
 
-# If depthwise separable discriminator is required
+#### If depthwise separable discriminator is required
 disc_X = CycleGAN_Discrminator_DWS(input_channels, initial_channels)
