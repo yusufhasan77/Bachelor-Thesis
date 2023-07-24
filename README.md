@@ -1,5 +1,6 @@
 # Bachelor-Thesis
-Repository for code used for doing bachelor thesis at Tilburg University
+IMPORTANT: KINDLY CHECK THE NEW REPOSITORY FOR THE THESIS AVAILABLE AT: https://github.com/yusufhasan77/Cycle-MobiGAN
+Repository for code used for doing bachelor thesis at Tilburg University. 
 
 ######## CODE FOR BACHELOR THESIS ########
 
